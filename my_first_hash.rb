@@ -1,5 +1,5 @@
 def my_hash
-  your_hash = {"name" => "Luis"}
+  your_hash = {"chakra" => 100}
 end
 
 def shipping_manifest
@@ -12,7 +12,7 @@ def retrieval
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
-                 
+
   shipping_manifest["oil paintings"]
 end
 
